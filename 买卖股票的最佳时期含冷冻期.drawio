@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T17:59:25.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="dWYCWx4eif4ZmgjMC_If" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:11:54.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="FJohx-U-HKp4ge_mpYe0" version="24.2.1" type="github">
   <diagram name="第 1 页" id="aUXtLbmZKmPkzCwxzv3N">
-    <mxGraphModel dx="2040" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1918" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,7 +161,7 @@
         <mxCell id="QVPJrGwtbvgawVWBaJjY-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-46" target="QVPJrGwtbvgawVWBaJjY-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-76" value="卖出行为" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-76" value="卖出行为1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QVPJrGwtbvgawVWBaJjY-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-76" target="QVPJrGwtbvgawVWBaJjY-73">
@@ -169,6 +169,107 @@
         </mxCell>
         <mxCell id="QVPJrGwtbvgawVWBaJjY-78" value="卖出状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="555" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-79" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-80" value="买入行为2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-80" target="QVPJrGwtbvgawVWBaJjY-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-82" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-83" value="卖出行为2（买入之后，下一天立即卖出，不考虑买入保）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-83" target="QVPJrGwtbvgawVWBaJjY-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-86" value="卖出状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="555" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-87" value="买入状态&lt;br&gt;（股票是今天买入的，要付费）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-87" target="QVPJrGwtbvgawVWBaJjY-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-89" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="30" y="920" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-91" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="70" y="920" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-92" value="买入行为1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-93" value="买入状态&lt;br&gt;（包括付费和保持）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="810" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-92" target="QVPJrGwtbvgawVWBaJjY-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-92" target="QVPJrGwtbvgawVWBaJjY-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-97" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="190" y="920" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-98" value="卖出行为1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-98" target="QVPJrGwtbvgawVWBaJjY-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-100" target="QVPJrGwtbvgawVWBaJjY-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-100" value="卖出状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-93" target="QVPJrGwtbvgawVWBaJjY-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-93" target="QVPJrGwtbvgawVWBaJjY-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-105" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="920" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-106" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="350" y="920" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-107" value="买入行为1（买入之后，吓一跳立即卖出，买入保持为0天）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1060" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-108" value="买入状态&lt;br&gt;（包括付费和保持）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="790" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-107" target="QVPJrGwtbvgawVWBaJjY-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-107" target="QVPJrGwtbvgawVWBaJjY-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-111" value="卖出行为2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-108" target="QVPJrGwtbvgawVWBaJjY-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-108" target="QVPJrGwtbvgawVWBaJjY-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-116" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="360" y="920" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVPJrGwtbvgawVWBaJjY-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-111" target="QVPJrGwtbvgawVWBaJjY-116">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
