@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:11:54.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="FJohx-U-HKp4ge_mpYe0" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:12:06.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="iNjrHEXgAm1NC96TAkYX" version="24.2.1" type="github">
   <diagram name="第 1 页" id="aUXtLbmZKmPkzCwxzv3N">
     <mxGraphModel dx="1918" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,66 +82,11 @@
         <mxCell id="QVPJrGwtbvgawVWBaJjY-46" value="买入行为1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="690" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-48" value="卖出行为1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="680" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="690" as="sourcePoint" />
-            <mxPoint x="590" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QVPJrGwtbvgawVWBaJjY-50" value="保持买入状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="555" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-51" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="630" y="600" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QVPJrGwtbvgawVWBaJjY-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="750" y="690" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-53" value="冷冻状态（1天）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="570" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-54" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="750" y="600" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-55" value="买入行为2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="680" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-56" value="保持卖出状态&lt;br&gt;（股票不是今天卖出的）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="510" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-55" target="QVPJrGwtbvgawVWBaJjY-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-48" target="QVPJrGwtbvgawVWBaJjY-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-59" value="冷冻自动结束1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="680" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-60" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="590" y="580" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-61" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="890" y="600" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-62" value="买入状态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="570" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="QVPJrGwtbvgawVWBaJjY-63" value="卖出状态&lt;br&gt;（股票是今天卖出的）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="440" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QVPJrGwtbvgawVWBaJjY-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="610" y="540" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QVPJrGwtbvgawVWBaJjY-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QVPJrGwtbvgawVWBaJjY-56" target="QVPJrGwtbvgawVWBaJjY-54">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QVPJrGwtbvgawVWBaJjY-67" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="30" y="600" width="40" height="20" as="geometry" />
