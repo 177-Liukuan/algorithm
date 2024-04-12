@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T15:49:40.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="kOJ-TwvG_aUNVFTkKxpX" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T16:06:59.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="hqH7O2eCqk42Wwor3TKh" version="24.2.3" type="github">
   <diagram name="第 1 页" id="ewnleLoZy3X5R_nvyh3p">
-    <mxGraphModel dx="1213" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2040" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
         <mxCell id="0DS2U9l0eUhZTR6tqigi-11" value="74" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="920" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0DS2U9l0eUhZTR6tqigi-14" value="栈顶元素73第一个比它大的是74" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-14" value="栈顶元素73在原序列中右边第一个比它大的是74" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="1185" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0DS2U9l0eUhZTR6tqigi-16" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;direction=west;rotation=90;" vertex="1" parent="1">
@@ -368,6 +368,57 @@
         </mxCell>
         <mxCell id="0DS2U9l0eUhZTR6tqigi-69" value="73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2920" y="1030" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-71" value="" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;direction=west;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1680" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="1570" as="sourcePoint" />
+            <mxPoint x="235" y="1910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-73" value="递增方向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0DS2U9l0eUhZTR6tqigi-72">
+          <mxGeometry x="-0.2627" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-74" value="递减单调栈" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1945" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-75" value="73" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1845" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-76" value="序列：[73,74,75,71,69,72,76,73]" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1460" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="0DS2U9l0eUhZTR6tqigi-79" target="0DS2U9l0eUhZTR6tqigi-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1520" />
+              <mxPoint x="370" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-78" value="74&amp;gt;73，如果插入会破坏递增栈，因此需要收集结果并弹出栈顶元素" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0DS2U9l0eUhZTR6tqigi-77">
+          <mxGeometry x="0.2757" y="-3" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-79" value="74" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1650" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-80" value="栈顶元素73第一个比它大的是74" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1915" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-82" value="右边是待插入栈的元素，左" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1247.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-83" value="情景1：&lt;br&gt;找出右边第一个比栈顶元素大" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-84" value="情景2：&lt;br&gt;&lt;div&gt;找出左右两边分别比栈顶元素大的第一个元素&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="970" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
