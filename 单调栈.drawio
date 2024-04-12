@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T16:06:59.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="hqH7O2eCqk42Wwor3TKh" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T16:12:59.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="b9ZjR_zR-G8LHuSnXV4y" version="24.2.3" type="github">
   <diagram name="第 1 页" id="ewnleLoZy3X5R_nvyh3p">
     <mxGraphModel dx="2040" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -378,7 +378,7 @@
             <mxPoint x="235" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0DS2U9l0eUhZTR6tqigi-73" value="递增方向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0DS2U9l0eUhZTR6tqigi-72">
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-73" value="递减方向" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0DS2U9l0eUhZTR6tqigi-72">
           <mxGeometry x="-0.2627" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -419,6 +419,12 @@
         </mxCell>
         <mxCell id="0DS2U9l0eUhZTR6tqigi-84" value="情景2：&lt;br&gt;&lt;div&gt;找出左右两边分别比栈顶元素大的第一个元素&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-86" value="情景1：&lt;br&gt;找出右边第一个比栈顶元素大" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="1600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0DS2U9l0eUhZTR6tqigi-87" value="情景2：&lt;br&gt;&lt;div&gt;找出左右两边分别比栈顶元素大的第一个元素&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1760" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
