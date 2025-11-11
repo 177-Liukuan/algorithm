@@ -106,7 +106,7 @@
         <mxCell id="RBSQTB5o9Ct17QsZVpQQ-9" value="t2a：GAN，开启了text to motion这一研究方向" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="-320" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NVs4CpN5vHaGuiMZgOh6-1" value="Momask：首个将生成式掩码建模与残差量化结合" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NVs4CpN5vHaGuiMZgOh6-1" value="Momask：将生成式掩码建模引入动作生成" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="-100" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NVs4CpN5vHaGuiMZgOh6-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
