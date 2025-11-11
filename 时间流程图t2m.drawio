@@ -7,7 +7,7 @@
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1120" y="-200" as="sourcePoint" />
-            <mxPoint x="760" y="-200" as="targetPoint" />
+            <mxPoint x="1761.333251953125" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
@@ -60,15 +60,15 @@
         </mxCell>
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-16" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="218" y="-280" as="sourcePoint" />
-            <mxPoint x="218" y="-200" as="targetPoint" />
+            <mxPoint x="371" y="-280" as="sourcePoint" />
+            <mxPoint x="371" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-17" value="2023.6.26" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="188" y="-200" width="60" height="30" as="geometry" />
+          <mxGeometry x="341" y="-200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-18" value="motionGPT：将motion看作一门“外语&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”，利用大语言预训练模型进行动作生成&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="143" y="-330" width="150" height="30" as="geometry" />
+          <mxGeometry x="296" y="-330" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-19" value="t2m-gpt：VQ-VAE+GPT，使用大量训练技巧，证明了离散表示和自回归模型依然是极其强大的竞争方案" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-27" y="-100" width="170" height="30" as="geometry" />
@@ -107,16 +107,16 @@
           <mxGeometry x="-1070" y="-320" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NVs4CpN5vHaGuiMZgOh6-1" value="Momask：将生成式掩码建模引入动作生成" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="388" y="-100" width="170" height="30" as="geometry" />
+          <mxGeometry x="541" y="-100" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NVs4CpN5vHaGuiMZgOh6-2" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="472.33" y="-200" as="sourcePoint" />
-            <mxPoint x="472.33" y="-120" as="targetPoint" />
+            <mxPoint x="625.3299999999999" y="-200" as="sourcePoint" />
+            <mxPoint x="625.3299999999999" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NVs4CpN5vHaGuiMZgOh6-3" value="2023.11.30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="443" y="-230" width="60" height="30" as="geometry" />
+          <mxGeometry x="596" y="-230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qca7G7rkV-OBMoDpHfsC-3" value="PhysDiff：首次在人体运动生成中引入物理约束" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-290" y="-100" width="170" height="30" as="geometry" />
@@ -129,6 +129,18 @@
         </mxCell>
         <mxCell id="qca7G7rkV-OBMoDpHfsC-5" value="2022.12.5" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-235" y="-230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qca7G7rkV-OBMoDpHfsC-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="-280" as="sourcePoint" />
+            <mxPoint x="205" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qca7G7rkV-OBMoDpHfsC-7" value="2023.4.3" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qca7G7rkV-OBMoDpHfsC-8" value="R" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-330" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
