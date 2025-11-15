@@ -154,7 +154,7 @@
         <mxCell id="5HMN96RgGvH0tiUWjbx8-6" value="PriorMDM：将MDM作为先验，微调，突破了数据依赖和任务瓶颈" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="-330" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KIM7sTJiBHc5kDTpwJDL-4" value="GENMO：扩散+首次实现运动估计和生成统一框架" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KIM7sTJiBHc5kDTpwJDL-4" value="GENMO：扩散+特殊attention，首次实现运动估计和生成统一框架" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1570" y="-100" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KIM7sTJiBHc5kDTpwJDL-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
