@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="aw3iiP9Hv2NuCN5ueWgo">
-    <mxGraphModel dx="1712" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="1174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,16 +155,16 @@
           <mxGeometry height="30" width="150" x="220" y="-330" as="geometry" />
         </mxCell>
         <mxCell id="KIM7sTJiBHc5kDTpwJDL-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="GENMO：扩散+特殊attention，首次实现运动估计和生成统一框架" vertex="1">
-          <mxGeometry height="50" width="170" x="2860.67" y="-120" as="geometry" />
+          <mxGeometry height="50" width="170" x="3120" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="KIM7sTJiBHc5kDTpwJDL-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2945" y="-200" as="sourcePoint" />
-            <mxPoint x="2945" y="-120" as="targetPoint" />
+            <mxPoint x="3204.33" y="-200" as="sourcePoint" />
+            <mxPoint x="3204.33" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KIM7sTJiBHc5kDTpwJDL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2025.5.2" vertex="1">
-          <mxGeometry height="30" width="60" x="2915.67" y="-230" as="geometry" />
+          <mxGeometry height="30" width="60" x="3175" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="6rdMvvcltnZJsAHPrWa1-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -202,8 +202,8 @@
         <mxCell id="jxSXeaeY2MTksRst29cP-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Motion Language：首个语言-非言语语言表示与生成统一框架，VQ-VAE+自回归，大规模预训练 +指令微调，在3D人体运动理解与生成任务上实现了卓越性能" vertex="1">
           <mxGeometry height="90" width="190" x="2530.67" y="-375" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="MotionLLM：" vertex="1">
-          <mxGeometry height="60" width="180" x="1592" y="-120" as="geometry" />
+        <mxCell id="jxSXeaeY2MTksRst29cP-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="MotionLLM：LLM+指令集调优，首次在语义空间中对齐视频和动作" vertex="1">
+          <mxGeometry height="60" width="182" x="1590" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="jxSXeaeY2MTksRst29cP-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -225,6 +225,18 @@
         </mxCell>
         <mxCell id="jxSXeaeY2MTksRst29cP-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.12.1" vertex="1">
           <mxGeometry height="30" width="60" x="2310" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="ja4fxvjQvFpJDGRKvg1r-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="TokenHSI：解耦双Tokenizer+Transformer+强化学习，实现统一通用且可高效扩展的人机交互动作生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="230" x="2770" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="ja4fxvjQvFpJDGRKvg1r-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2884.33" y="-200" as="sourcePoint" />
+            <mxPoint x="2884.33" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ja4fxvjQvFpJDGRKvg1r-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2025.3.25" vertex="1">
+          <mxGeometry height="30" width="60" x="2855" y="-230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
