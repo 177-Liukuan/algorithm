@@ -15,11 +15,17 @@
             <mxPoint x="400" y="255.4000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnkV-hzMArgWcEt8akuK-74" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="VnkV-hzMArgWcEt8akuK-73">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VnkV-hzMArgWcEt8akuK-74" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="VnkV-hzMArgWcEt8akuK-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="270" />
+              <mxPoint x="253" y="300" />
+              <mxPoint x="400" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="VnkV-hzMArgWcEt8akuK-2" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="多模态大语言模型" vertex="1">
-          <mxGeometry height="80" width="120" x="210" y="215.4" as="geometry" />
+          <mxGeometry height="80" width="120" x="221" y="165.4" as="geometry" />
         </mxCell>
         <mxCell id="VnkV-hzMArgWcEt8akuK-26" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;">
           <mxGeometry relative="1" as="geometry">
@@ -121,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VnkV-hzMArgWcEt8akuK-73" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" value="motion&lt;br&gt;0~t" vertex="1">
-          <mxGeometry height="50" width="50" x="400" y="280.8" as="geometry" />
+          <mxGeometry height="50" width="50" x="400" y="275" as="geometry" />
         </mxCell>
         <mxCell id="VnkV-hzMArgWcEt8akuK-81" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VnkV-hzMArgWcEt8akuK-79">
           <mxGeometry relative="1" as="geometry" />
