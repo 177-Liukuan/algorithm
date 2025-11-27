@@ -214,7 +214,7 @@
         <mxCell id="jxSXeaeY2MTksRst29cP-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.5.30" vertex="1">
           <mxGeometry height="30" width="60" x="1652" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="FiCTION：" vertex="1">
+        <mxCell id="jxSXeaeY2MTksRst29cP-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="FiCTION：多模态transformer + CVAE，提出以交互为中心的4D人类动作预测范式" vertex="1">
           <mxGeometry height="60" width="180" x="2250" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="jxSXeaeY2MTksRst29cP-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" value="">
