@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="aw3iiP9Hv2NuCN5ueWgo">
-    <mxGraphModel dx="2645" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2511" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="a-fAb0gpN0WkOjB6TyO2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.4.15" vertex="1">
           <mxGeometry height="30" width="60" x="1305" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="a-fAb0gpN0WkOjB6TyO2-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="motionGPT+Human Preference：首次将人类偏好引入运动生成" vertex="1">
+        <mxCell id="a-fAb0gpN0WkOjB6TyO2-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="InstructMotion：首次将人类偏好引入运动生成" vertex="1">
           <mxGeometry height="30" width="150" x="1260" y="-330" as="geometry" />
         </mxCell>
         <mxCell id="5HMN96RgGvH0tiUWjbx8-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
