@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="x8N-gTqN6EzuwbFmBX-r">
-    <mxGraphModel dx="1205" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1445" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,8 +118,8 @@
             <mxPoint x="933" y="457.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VnkV-hzMArgWcEt8akuK-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;问题：&lt;/font&gt;&lt;div&gt;1.生成与预测的区别：&lt;/div&gt;&lt;div&gt;- 生成：要求生成的结果具备多样性(Diversity)，这是模型评价指标之一&lt;/div&gt;&lt;div&gt;- 预测：要求预测结果精准（MPJPE），这是模型的评价指标之一&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;二者之间存在问题表述上的差异，能否需学习GENMO，将预测和生成统一&lt;br&gt;&lt;br&gt;2.运动预测的重要论文推荐&lt;/div&gt;" vertex="1">
-          <mxGeometry height="159.6" width="420" x="870" y="140.4" as="geometry" />
+        <mxCell id="VnkV-hzMArgWcEt8akuK-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;问题：&lt;/font&gt;&lt;div&gt;1.生成与预测的区别：&lt;/div&gt;&lt;div&gt;- 生成：要求生成的结果具备多样性(Diversity)，这是模型评价指标之一&lt;/div&gt;&lt;div&gt;- 预测：要求预测结果精准（MPJPE），这是模型的评价指标之一&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;二者的目标在这个角度上是相反的，能否需学习GENMO，重新表述预测，将二者统一&lt;br&gt;&lt;br&gt;2.运动预测的重要论文推荐&lt;/div&gt;" vertex="1">
+          <mxGeometry height="159.6" width="450" x="870" y="140.4" as="geometry" />
         </mxCell>
         <mxCell id="VnkV-hzMArgWcEt8akuK-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="prompt" vertex="1">
           <mxGeometry height="30" width="60" x="130" y="215.4" as="geometry" />
