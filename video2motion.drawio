@@ -135,6 +135,14 @@
         <mxCell id="VnkV-hzMArgWcEt8akuK-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更加精准的运动长程预测" vertex="1">
           <mxGeometry height="30" width="150" x="860" y="350" as="geometry" />
         </mxCell>
+        <mxCell id="JsS15Bv-9dIJxsUZfnCt-2" edge="1" parent="1" source="JsS15Bv-9dIJxsUZfnCt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsS15Bv-9dIJxsUZfnCt-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" value="文本（t2m）" vertex="1">
+          <mxGeometry height="60" width="60" x="600" y="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
