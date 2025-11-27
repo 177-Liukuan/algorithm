@@ -1,9 +1,140 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="第 1 页" id="x8N-gTqN6EzuwbFmBX-r">
-    <mxGraphModel>
+    <mxGraphModel dx="1128" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VnkV-hzMArgWcEt8akuK-12" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" target="VnkV-hzMArgWcEt8akuK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-1" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.video_file;sketch=1;curveFitting=1;jiggle=2;" value="视频：0~t" vertex="1">
+          <mxGeometry height="50.8" width="36.8" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-28" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VnkV-hzMArgWcEt8akuK-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="255.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-74" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="VnkV-hzMArgWcEt8akuK-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-2" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="多模态大语言模型" vertex="1">
+          <mxGeometry height="80" width="120" x="210" y="215.4" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-26" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="417.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-13" parent="1" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.video_file;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;t-&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Δ&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;t~t&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50.8" width="36.8" x="173.2" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-15" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-1" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" target="VnkV-hzMArgWcEt8akuK-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-16" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="311" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-19" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="331" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-20" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="361" y="402" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="......" vertex="1">
+          <mxGeometry height="30" width="60" x="321" y="392" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="motion&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;t-&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;Δ&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;t~t&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="311" y="432" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-35" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" target="VnkV-hzMArgWcEt8akuK-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="VAE Encoder" vertex="1">
+          <mxGeometry height="33" width="86" x="414" y="399" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-32" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-22" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" target="VnkV-hzMArgWcEt8akuK-30" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="330" as="sourcePoint" />
+            <mxPoint x="700" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="Transformer" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="225.40000000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-46" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="670" y="259.9" as="sourcePoint" />
+            <mxPoint x="710" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-47" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="295.4" as="sourcePoint" />
+            <mxPoint x="790" y="365.4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-48" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="920" y="395.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-49" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="940" y="395.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-50" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="" vertex="1">
+          <mxGeometry height="20" width="10" x="970" y="395.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="......" vertex="1">
+          <mxGeometry height="30" width="60" x="930" y="385.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="motion&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;t~T&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="920" y="425.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="VAE Encoder" vertex="1">
+          <mxGeometry height="33" width="86" x="760" y="385.9" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-64" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="870" y="405.7" as="sourcePoint" />
+            <mxPoint x="903" y="405.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;问题：&lt;/font&gt;&lt;div&gt;1.将视频中的信息&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="420" x="1010" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="prompt" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="215.4" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-76" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VnkV-hzMArgWcEt8akuK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-71" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" value="结构化&lt;br&gt;详细描述文本" vertex="1">
+          <mxGeometry height="50" width="50" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-77" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VnkV-hzMArgWcEt8akuK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-73" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;curveFitting=1;jiggle=2;" value="motion&lt;br&gt;0~t" vertex="1">
+          <mxGeometry height="50" width="50" x="400" y="280.8" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-81" edge="1" parent="1" source="VnkV-hzMArgWcEt8akuK-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="VnkV-hzMArgWcEt8akuK-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=43;" value="融合" vertex="1">
+          <mxGeometry height="30" width="40" x="530" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="tokenizer" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="245.4" as="geometry" />
+        </mxCell>
+        <mxCell id="VnkV-hzMArgWcEt8akuK-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="更加精准的运动长程预测" vertex="1">
+          <mxGeometry height="30" width="150" x="860" y="350" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
