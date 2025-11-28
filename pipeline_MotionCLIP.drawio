@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
   <diagram name="Text-to-Motion Pipeline" id="U2wSSUXcc51j6JBOiT5l">
-    <mxGraphModel dx="28164" dy="17150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="49041" dy="34998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -487,16 +487,6 @@
             <mxPoint x="3440" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sAFva0Q3jMLmNLQxLHE0-100" edge="1" parent="1" source="sAFva0Q3jMLmNLQxLHE0-89" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=12;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sAFva0Q3jMLmNLQxLHE0-96" value="Conditioning">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="3180" y="1090" />
-              <mxPoint x="3180" y="1310" />
-            </Array>
-            <mxPoint x="3150" y="1090" as="sourcePoint" />
-            <mxPoint x="3240" y="1310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sAFva0Q3jMLmNLQxLHE0-101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Hierarchical Supervision Module" vertex="1">
           <mxGeometry height="250" width="550" x="2795" y="1570" as="geometry" />
         </mxCell>
@@ -533,16 +523,6 @@
         <mxCell id="sAFva0Q3jMLmNLQxLHE0-109" parent="sAFva0Q3jMLmNLQxLHE0-101" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=18;fontStyle=1;" value="L_Total = Sum(L_i)" vertex="1">
           <mxGeometry height="30" width="160" x="195" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="sAFva0Q3jMLmNLQxLHE0-110" edge="1" parent="1" source="sAFva0Q3jMLmNLQxLHE0-89" style="endArrow=none;html=1;fontFamily=Helvetica;fontSize=12;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="sAFva0Q3jMLmNLQxLHE0-94" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="3070" y="1150" />
-              <mxPoint x="3070" y="1250" />
-            </Array>
-            <mxPoint x="3110" y="1120" as="sourcePoint" />
-            <mxPoint x="3070" y="1280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sAFva0Q3jMLmNLQxLHE0-111" edge="1" parent="1" source="sAFva0Q3jMLmNLQxLHE0-94" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sAFva0Q3jMLmNLQxLHE0-101" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Input to&lt;br&gt;L_TIC&lt;/font&gt;">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
@@ -560,24 +540,6 @@
             </Array>
             <mxPoint x="3070" y="1120" as="sourcePoint" />
             <mxPoint x="3080" y="1480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sAFva0Q3jMLmNLQxLHE0-113" edge="1" parent="1" source="sAFva0Q3jMLmNLQxLHE0-87" style="endArrow=none;html=1;dashed=1;fontFamily=Helvetica;fontSize=10;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="sAFva0Q3jMLmNLQxLHE0-97" value="Motion M/M&#39;">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="3090" y="1340" />
-            </Array>
-            <mxPoint x="2700" y="1340" as="sourcePoint" />
-            <mxPoint x="3490" y="1340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sAFva0Q3jMLmNLQxLHE0-114" edge="1" parent="1" source="sAFva0Q3jMLmNLQxLHE0-113" style="endArrow=classic;html=1;dashed=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="sAFva0Q3jMLmNLQxLHE0-101" value="M vs M&#39; &lt;br&gt; (Reconstruction)">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="3090" y="1450" />
-            </Array>
-            <mxPoint x="3090" y="1340" as="sourcePoint" />
-            <mxPoint x="3180" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sAFva0Q3jMLmNLQxLHE0-115" edge="1" parent="1" style="endArrow=classic;html=1;fontFamily=Helvetica;fontSize=12;dashed=1;strokeColor=#ff0000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="sAFva0Q3jMLmNLQxLHE0-92" value="Optimization Gradient">
