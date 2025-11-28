@@ -1,242 +1,497 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
   <diagram name="第 1 页" id="aw3iiP9Hv2NuCN5ueWgo">
-    <mxGraphModel dx="1890" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3054" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-1120" y="-200" as="sourcePoint" />
             <mxPoint x="3541.372357536765" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-62" y="-280" as="sourcePoint" />
             <mxPoint x="-62" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2022.12.8" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.12.8" vertex="1">
           <mxGeometry height="30" width="60" x="-92" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="mld：用VAE将raw data编码到laten空间再训练" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="mld：用VAE将raw data编码到laten空间再训练" vertex="1">
           <mxGeometry height="30" width="140" x="-132" y="-330" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2022.6" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.6" vertex="1">
           <mxGeometry height="30" width="60" x="-670" y="-190" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-640.5" y="-280" as="sourcePoint" />
             <mxPoint x="-640.5" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="t2m：提出HuamnML 3D数据集" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="t2m：提出HuamnML 3D数据集" vertex="1">
           <mxGeometry height="30" width="140" x="-710" y="-320" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="&lt;span data-json=&quot;%7B%22type%22%3A%22text%22%2C%22data%22%3A%5B%7B%22type%22%3A1%2C%22style%22%3A%7B%7D%2C%22text%22%3A%22MotionDiffuse%22%7D%5D%7D&quot; class=&quot;mm-editor-clipboard&quot;&gt;MotionDiffuse：首次在text to motion中引入扩散模型&lt;/span&gt;" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span data-json=&quot;%7B%22type%22%3A%22text%22%2C%22data%22%3A%5B%7B%22type%22%3A1%2C%22style%22%3A%7B%7D%2C%22text%22%3A%22MotionDiffuse%22%7D%5D%7D&quot; class=&quot;mm-editor-clipboard&quot;&gt;MotionDiffuse：首次在text to motion中引入扩散模型&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="-570" y="-110" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-510" y="-200" as="sourcePoint" />
             <mxPoint x="-510" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2022.8.31" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.8.31" vertex="1">
           <mxGeometry height="30" width="60" x="-540" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2022.9.29" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.9.29" vertex="1">
           <mxGeometry height="30" width="60" x="-370" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-340" y="-280" as="sourcePoint" />
             <mxPoint x="-340" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="mdm：difussion+transformer，全性能基线，高可复现" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="mdm：difussion+transformer，全性能基线，高可复现" vertex="1">
           <mxGeometry height="30" width="170" x="-425" y="-330" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="574" y="-280" as="sourcePoint" />
             <mxPoint x="574" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2023.6.26" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.6.26" vertex="1">
           <mxGeometry height="30" width="60" x="544" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="motionGPT：将motion看作一门“外语&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”，利用大语言预训练模型进行动作生成&lt;/span&gt;" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="motionGPT：将motion看作一门“外语&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;”，利用大语言预训练模型进行动作生成&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="499" y="-360" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="t2m-gpt：VQ-VAE+GPT，使用大量训练技巧，证明了离散表示和自回归模型依然是极其强大的竞争方案" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="t2m-gpt：VQ-VAE+GPT，使用大量训练技巧，证明了离散表示和自回归模型依然是极其强大的竞争方案" vertex="1">
           <mxGeometry height="70" width="170" x="-27" y="-100" as="geometry" />
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="57.33" y="-200" as="sourcePoint" />
             <mxPoint x="57.33" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gP-z1K9pOAYbxG9wV2w1-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2023.1.5" vertex="1">
+        <mxCell id="gP-z1K9pOAYbxG9wV2w1-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.1.5" vertex="1">
           <mxGeometry height="30" width="60" x="28" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="MotionCLIP：首次引入将人体运动流形与CLIP对齐的思路" vertex="1">
+        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionCLIP：首次引入将人体运动流形与CLIP对齐的思路" vertex="1">
           <mxGeometry height="30" width="170" x="-825" y="-110" as="geometry" />
         </mxCell>
-        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-740" y="-200" as="sourcePoint" />
             <mxPoint x="-740" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2022.3.15" vertex="1">
+        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.3.15" vertex="1">
           <mxGeometry height="30" width="60" x="-770" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2017.10.15" vertex="1">
+        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2017.10.15" vertex="1">
           <mxGeometry height="30" width="60" x="-1030" y="-190" as="geometry" />
         </mxCell>
-        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-1000.5" y="-280" as="sourcePoint" />
             <mxPoint x="-1000.5" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="t2a：GAN，text to motion早期奠基性工作之" vertex="1">
+        <mxCell id="RBSQTB5o9Ct17QsZVpQQ-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="t2a：GAN，text to motion早期奠基性工作之" vertex="1">
           <mxGeometry height="30" width="140" x="-1070" y="-320" as="geometry" />
         </mxCell>
-        <mxCell id="NVs4CpN5vHaGuiMZgOh6-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="Momask：将生成式掩码建模引入动作生成" vertex="1">
+        <mxCell id="NVs4CpN5vHaGuiMZgOh6-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="Momask：将生成式掩码建模引入动作生成" vertex="1">
           <mxGeometry height="30" width="170" x="744" y="-100" as="geometry" />
         </mxCell>
-        <mxCell id="NVs4CpN5vHaGuiMZgOh6-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="NVs4CpN5vHaGuiMZgOh6-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="828.3299999999999" y="-200" as="sourcePoint" />
             <mxPoint x="828.3299999999999" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NVs4CpN5vHaGuiMZgOh6-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2023.11.30" vertex="1">
+        <mxCell id="NVs4CpN5vHaGuiMZgOh6-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.11.30" vertex="1">
           <mxGeometry height="30" width="60" x="799" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="qca7G7rkV-OBMoDpHfsC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="PhysDiff：首次在人体运动生成中引入物理约束" vertex="1">
+        <mxCell id="qca7G7rkV-OBMoDpHfsC-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="PhysDiff：首次在人体运动生成中引入物理约束" vertex="1">
           <mxGeometry height="30" width="170" x="-290" y="-100" as="geometry" />
         </mxCell>
-        <mxCell id="qca7G7rkV-OBMoDpHfsC-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="qca7G7rkV-OBMoDpHfsC-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-205.67000000000002" y="-200" as="sourcePoint" />
             <mxPoint x="-205.67000000000002" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qca7G7rkV-OBMoDpHfsC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2022.12.5" vertex="1">
+        <mxCell id="qca7G7rkV-OBMoDpHfsC-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.12.5" vertex="1">
           <mxGeometry height="30" width="60" x="-235" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="a-fAb0gpN0WkOjB6TyO2-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="a-fAb0gpN0WkOjB6TyO2-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1335" y="-280" as="sourcePoint" />
             <mxPoint x="1335" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a-fAb0gpN0WkOjB6TyO2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.4.15" vertex="1">
+        <mxCell id="a-fAb0gpN0WkOjB6TyO2-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.4.15" vertex="1">
           <mxGeometry height="30" width="60" x="1305" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="a-fAb0gpN0WkOjB6TyO2-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="InstructMotion：首次将人类偏好引入运动生成" vertex="1">
+        <mxCell id="a-fAb0gpN0WkOjB6TyO2-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="InstructMotion：首次将人类偏好引入运动生成" vertex="1">
           <mxGeometry height="30" width="150" x="1260" y="-330" as="geometry" />
         </mxCell>
-        <mxCell id="5HMN96RgGvH0tiUWjbx8-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="5HMN96RgGvH0tiUWjbx8-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="295" y="-280" as="sourcePoint" />
             <mxPoint x="295" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5HMN96RgGvH0tiUWjbx8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2023.3.2" vertex="1">
+        <mxCell id="5HMN96RgGvH0tiUWjbx8-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.3.2" vertex="1">
           <mxGeometry height="30" width="60" x="265" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="5HMN96RgGvH0tiUWjbx8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="PriorMDM：将MDM作为先验，微调，突破了数据依赖和任务瓶颈，可生成长序列" vertex="1">
+        <mxCell id="5HMN96RgGvH0tiUWjbx8-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="PriorMDM：将MDM作为先验，微调，突破了数据依赖和任务瓶颈，可生成长序列" vertex="1">
           <mxGeometry height="30" width="150" x="220" y="-330" as="geometry" />
         </mxCell>
-        <mxCell id="KIM7sTJiBHc5kDTpwJDL-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="GENMO：扩散+特殊attention，首次实现运动估计和生成统一框架，二者互相增强" vertex="1">
+        <mxCell id="KIM7sTJiBHc5kDTpwJDL-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="GENMO：扩散+特殊attention，首次实现运动估计和生成统一框架，二者互相增强" vertex="1">
           <mxGeometry height="50" width="170" x="3120" y="-120" as="geometry" />
         </mxCell>
-        <mxCell id="KIM7sTJiBHc5kDTpwJDL-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="KIM7sTJiBHc5kDTpwJDL-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="3204.33" y="-200" as="sourcePoint" />
             <mxPoint x="3204.33" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KIM7sTJiBHc5kDTpwJDL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2025.5.2" vertex="1">
+        <mxCell id="KIM7sTJiBHc5kDTpwJDL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.5.2" vertex="1">
           <mxGeometry height="30" width="60" x="3175" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="6rdMvvcltnZJsAHPrWa1-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="6rdMvvcltnZJsAHPrWa1-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1055" y="-280" as="sourcePoint" />
             <mxPoint x="1055" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6rdMvvcltnZJsAHPrWa1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.2.23" vertex="1">
+        <mxCell id="6rdMvvcltnZJsAHPrWa1-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.2.23" vertex="1">
           <mxGeometry height="30" width="60" x="1025" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="6rdMvvcltnZJsAHPrWa1-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="FlowMDM：首个无需后处理或冗余去噪的扩散模型，支持端到端多动作运动合成" vertex="1">
+        <mxCell id="6rdMvvcltnZJsAHPrWa1-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="FlowMDM：首个无需后处理或冗余去噪的扩散模型，支持端到端多动作运动合成" vertex="1">
           <mxGeometry height="40" width="150" x="980" y="-325" as="geometry" />
         </mxCell>
-        <mxCell id="KFqRXT4IvG-jviWQ0CzI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="MARDM：掩码自回归+扩散，首次指出运动表示存在冗余维度，通过改革表示，为motion generation 引入更优的扩散方法" vertex="1">
+        <mxCell id="KFqRXT4IvG-jviWQ0CzI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MARDM：掩码自回归+扩散，首次指出运动表示存在冗余维度，通过改革表示，为motion generation 引入更优的扩散方法" vertex="1">
           <mxGeometry height="70" width="190" x="1890" y="-355" as="geometry" />
         </mxCell>
-        <mxCell id="KFqRXT4IvG-jviWQ0CzI-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="KFqRXT4IvG-jviWQ0CzI-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1980" y="-280" as="sourcePoint" />
             <mxPoint x="1980" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFqRXT4IvG-jviWQ0CzI-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.11.25" vertex="1">
+        <mxCell id="KFqRXT4IvG-jviWQ0CzI-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.11.25" vertex="1">
           <mxGeometry height="30" width="60" x="1950" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+        <mxCell id="jxSXeaeY2MTksRst29cP-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2625.67" y="-280" as="sourcePoint" />
             <mxPoint x="2625.67" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.12.13" vertex="1">
+        <mxCell id="jxSXeaeY2MTksRst29cP-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.12.13" vertex="1">
           <mxGeometry height="30" width="60" x="2595.67" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Motion Language：首个语言-非言语语言表示与生成统一框架，VQ-VAE+自回归，大规模预训练 +指令微调，在3D人体运动理解与生成任务上实现了卓越性能" vertex="1">
+        <mxCell id="jxSXeaeY2MTksRst29cP-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Motion Language：首个语言-非言语语言表示与生成统一框架，VQ-VAE+自回归，大规模预训练 +指令微调，在3D人体运动理解与生成任务上实现了卓越性能" vertex="1">
           <mxGeometry height="90" width="190" x="2530.67" y="-375" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="MotionLLM：LLM+指令集调优，首次在语义空间中对齐视频和动作" vertex="1">
+        <mxCell id="jxSXeaeY2MTksRst29cP-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionLLM：LLM+指令集调优，首次在语义空间中对齐视频和动作" vertex="1">
           <mxGeometry height="60" width="182" x="1590" y="-120" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+        <mxCell id="jxSXeaeY2MTksRst29cP-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1681.33" y="-200" as="sourcePoint" />
             <mxPoint x="1681.33" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.5.30" vertex="1">
+        <mxCell id="jxSXeaeY2MTksRst29cP-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.5.30" vertex="1">
           <mxGeometry height="30" width="60" x="1652" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="FiCTION：多模态transformer + CVAE，提出以交互为中心的4D人类动作预测范式" vertex="1">
+        <mxCell id="jxSXeaeY2MTksRst29cP-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="FiCTION：多模态transformer + CVAE，提出以交互为中心的4D人类动作预测范式" vertex="1">
           <mxGeometry height="60" width="180" x="2250" y="-120" as="geometry" />
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+        <mxCell id="jxSXeaeY2MTksRst29cP-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2339.41" y="-210" as="sourcePoint" />
             <mxPoint x="2339.41" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jxSXeaeY2MTksRst29cP-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2024.12.1" vertex="1">
+        <mxCell id="jxSXeaeY2MTksRst29cP-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.12.1" vertex="1">
           <mxGeometry height="30" width="60" x="2310" y="-230" as="geometry" />
         </mxCell>
-        <mxCell id="ja4fxvjQvFpJDGRKvg1r-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="TokenHSI：解耦双Tokenizer+Transformer+强化学习，实现统一通用且可高效扩展的人机交互动作生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="ja4fxvjQvFpJDGRKvg1r-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="TokenHSI：解耦双Tokenizer+Transformer+强化学习，实现统一通用且可高效扩展的人机交互动作生成&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="230" x="2770" y="-120" as="geometry" />
         </mxCell>
-        <mxCell id="ja4fxvjQvFpJDGRKvg1r-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="">
+        <mxCell id="ja4fxvjQvFpJDGRKvg1r-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="2884.33" y="-200" as="sourcePoint" />
             <mxPoint x="2884.33" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ja4fxvjQvFpJDGRKvg1r-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" value="2025.3.25" vertex="1">
+        <mxCell id="ja4fxvjQvFpJDGRKvg1r-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.3.25" vertex="1">
           <mxGeometry height="30" width="60" x="2855" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-134" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="1910" as="sourcePoint" />
+            <mxPoint x="2020" y="1910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="阶段 I: 早期奠基与 VAE/Diffusion 引入 (2017 - 2022)" vertex="1">
+          <mxGeometry height="30" width="300" x="870" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2017.10.15" vertex="1">
+          <mxGeometry height="30" width="60" x="890" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-137" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="919.5" y="1990" as="sourcePoint" />
+            <mxPoint x="919.5" y="1910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-138" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="t2a：GAN，text to motion早期奠基性工作之" vertex="1">
+          <mxGeometry height="40" width="140" x="850" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.3.15" vertex="1">
+          <mxGeometry height="30" width="60" x="1060" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-140" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1090" y="1910" as="sourcePoint" />
+            <mxPoint x="1090" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionCLIP：首次引入将人体运动流形与CLIP对齐的思路" vertex="1">
+          <mxGeometry height="40" width="170" x="1005" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-142" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.6.1" vertex="1">
+          <mxGeometry height="30" width="60" x="1230" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-143" edge="1" parent="1" source="JMyYbuoahwSQbWJSLOSB-144" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1259.38" y="1990" as="sourcePoint" />
+            <mxPoint x="1259.38" y="1910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="t2m：提出HuamnML 3D数据集" vertex="1">
+          <mxGeometry height="40" width="140" x="1190" y="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.8.31" vertex="1">
+          <mxGeometry height="30" width="60" x="1380" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-146" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1410" y="1910" as="sourcePoint" />
+            <mxPoint x="1410" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-147" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionDiffuse：首次在text to motion中引入扩散模型" vertex="1">
+          <mxGeometry height="50" width="140" x="1350" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-148" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.9.29" vertex="1">
+          <mxGeometry height="30" width="60" x="1550" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-149" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1590" y="1980" as="sourcePoint" />
+            <mxPoint x="1590" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-150" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="mdm：difussion+transformer，全性能基线，高可复现" vertex="1">
+          <mxGeometry height="60" width="170" x="1508" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-151" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.12.5" vertex="1">
+          <mxGeometry height="30" width="60" x="1765" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-152" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1794.33" y="1910" as="sourcePoint" />
+            <mxPoint x="1794.33" y="1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-153" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="PhysDiff：首次在人体运动生成中引入物理约束" vertex="1">
+          <mxGeometry height="50" width="170" x="1710" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-154" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2022.12.8" vertex="1">
+          <mxGeometry height="30" width="60" x="1930" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-155" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1960" y="1990" as="sourcePoint" />
+            <mxPoint x="1960" y="1910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-156" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="mld：用VAE将raw data编码到laten空间再训练" vertex="1">
+          <mxGeometry height="50" width="140" x="1890" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-157" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="2160" as="sourcePoint" />
+            <mxPoint x="2020" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-158" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="阶段 II: 自回归/先验模型与 LLM 初探 (2023 - 2024.05)" vertex="1">
+          <mxGeometry height="30" width="350" x="870" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.1.5" vertex="1">
+          <mxGeometry height="30" width="60" x="890" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-161" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="919.5" y="2160" as="sourcePoint" />
+            <mxPoint x="919.5" y="2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-162" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b658;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="t2m-gpt：VQ-VAE+GPT，使用大量训练技巧，证明了离散表示和自回归模型依然是极其强大的竞争方案" vertex="1">
+          <mxGeometry height="70" width="170" x="835" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.3.2" vertex="1">
+          <mxGeometry height="30" width="60" x="1150" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-164" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1180" y="2240" as="sourcePoint" />
+            <mxPoint x="1180" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-165" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#fce5cd;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="PriorMDM：将MDM作为先验，微调，突破了数据依赖和任务瓶颈，可生成长序列" vertex="1">
+          <mxGeometry height="50" width="150" x="1105" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.6.26" vertex="1">
+          <mxGeometry height="30" width="60" x="1355" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-167" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1380" y="2240" as="sourcePoint" />
+            <mxPoint x="1380" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-168" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b658;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="motionGPT：将motion看作一门“外语”，利用大语言预训练模型进行动作生成" vertex="1">
+          <mxGeometry height="60" width="150" x="1305" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2023.11.30" vertex="1">
+          <mxGeometry height="30" width="60" x="1550" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-170" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1580" y="2160" as="sourcePoint" />
+            <mxPoint x="1580" y="2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-171" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#d6b658;fillColor=#fff2cc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="Momask：将生成式掩码建模引入动作生成" vertex="1">
+          <mxGeometry height="30" width="170" x="1495" y="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.2.23" vertex="1">
+          <mxGeometry height="30" width="60" x="1755" y="2130" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-173" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1785" y="2240" as="sourcePoint" />
+            <mxPoint x="1785" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-174" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#fce5cd;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="FlowMDM：首个无需后处理或冗余去噪的扩散模型，支持端到端多动作运动合成" vertex="1">
+          <mxGeometry height="40" width="150" x="1710" y="2245" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-175" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.4.15" vertex="1">
+          <mxGeometry height="30" width="60" x="1940" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-176" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1970" y="2240" as="sourcePoint" />
+            <mxPoint x="1970" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-177" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#fce5cd;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="InstructMotion：首次将人类偏好引入运动生成" vertex="1">
+          <mxGeometry height="30" width="150" x="1895" y="2245" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-178" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="2410" as="sourcePoint" />
+            <mxPoint x="2020" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-179" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="阶段 III: 统一框架、大规模预训练与高级控制 (2024.05 - 2025.05)" vertex="1">
+          <mxGeometry height="30" width="460" x="850" y="2350" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-181" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.5.30" vertex="1">
+          <mxGeometry height="30" width="60" x="890" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-182" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="919.5" y="2410" as="sourcePoint" />
+            <mxPoint x="919.5" y="2490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-183" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionLLM：LLM+指令集调优，首次在语义空间中对齐视频和动作" vertex="1">
+          <mxGeometry height="60" width="182" x="835" y="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.11.25" vertex="1">
+          <mxGeometry height="30" width="60" x="1104" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-185" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1135" y="2490" as="sourcePoint" />
+            <mxPoint x="1135" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-186" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MARDM：掩码自回归+扩散，首次指出运动表示存在冗余维度，通过改革表示，为motion generation 引入更优的扩散方法" vertex="1">
+          <mxGeometry height="80" width="200" x="1040" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.12.1" vertex="1">
+          <mxGeometry height="30" width="60" x="1318" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-188" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1348" y="2490" as="sourcePoint" />
+            <mxPoint x="1348" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-189" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="FiCTION：多模态transformer + CVAE，提出以交互为中心的4D人类动作预测范式" vertex="1">
+          <mxGeometry height="80" width="180" x="1258" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2024.12.13" vertex="1">
+          <mxGeometry height="30" width="60" x="1492.67" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-191" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1522" y="2490" as="sourcePoint" />
+            <mxPoint x="1522" y="2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Motion Language：首个语言-非言语语言表示与生成统一框架，VQ-VAE+自回归，大规模预训练 +指令微调，在3D人体运动理解与生成任务上实现了卓越性能" vertex="1">
+          <mxGeometry height="90" width="190" x="1457" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-193" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.3.25" vertex="1">
+          <mxGeometry height="30" width="60" x="1752" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-194" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1782" y="2410" as="sourcePoint" />
+            <mxPoint x="1782" y="2490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-195" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="TokenHSI：解耦双Tokenizer+Transformer+强化学习，实现统一通用且可高效扩展的人机交互动作生成" vertex="1">
+          <mxGeometry height="80" width="230" x="1662" y="2490" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-196" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.5.2" vertex="1">
+          <mxGeometry height="30" width="60" x="1957" y="2380" as="geometry" />
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-197" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1987" y="2410" as="sourcePoint" />
+            <mxPoint x="1987" y="2490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JMyYbuoahwSQbWJSLOSB-198" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="GENMO：扩散+特殊attention，首次实现运动估计和生成统一框架，二者互相增强" vertex="1">
+          <mxGeometry height="50" width="170" x="1902" y="2500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
