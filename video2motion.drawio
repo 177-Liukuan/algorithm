@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.1">
   <diagram name="第 1 页" id="x8N-gTqN6EzuwbFmBX-r">
-    <mxGraphModel dx="1445" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1445" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,7 +109,7 @@
         <mxCell id="VnkV-hzMArgWcEt8akuK-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="motion&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;t~T&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="940" y="477.9" as="geometry" />
         </mxCell>
-        <mxCell id="VnkV-hzMArgWcEt8akuK-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="VAE Encoder" vertex="1">
+        <mxCell id="VnkV-hzMArgWcEt8akuK-53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="VAE Decoder" vertex="1">
           <mxGeometry height="33" width="86" x="760" y="385.9" as="geometry" />
         </mxCell>
         <mxCell id="VnkV-hzMArgWcEt8akuK-64" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="">
@@ -185,6 +185,9 @@
         </mxCell>
         <mxCell id="JsS15Bv-9dIJxsUZfnCt-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=0;" value="motion&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;0~T&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="940" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XW5ZBFyH_DjPAl8T_lwF-2" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="Text Encoder" vertex="1">
+          <mxGeometry height="60" width="90" x="470" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
