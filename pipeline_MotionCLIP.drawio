@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.4">
   <diagram name="Text-to-Motion Pipeline" id="U2wSSUXcc51j6JBOiT5l">
-    <mxGraphModel dx="394546" dy="224222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="397027" dy="225391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,9 +260,6 @@
             <mxPoint x="1014" y="862" as="sourcePoint" />
             <mxPoint x="1064" y="862" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sAFva0Q3jMLmNLQxLHE0-64" parent="1" style="shape=box;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Transformer (条件生成器)" vertex="1">
-          <mxGeometry height="50" width="200" x="1800" y="860" as="geometry" />
         </mxCell>
         <mxCell id="sAFva0Q3jMLmNLQxLHE0-67" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" value="&lt;b&gt;分层语义监督 (损失机制)&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="200" x="1570" y="1570" as="geometry" />
