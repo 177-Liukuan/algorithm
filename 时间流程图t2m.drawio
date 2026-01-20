@@ -514,7 +514,7 @@
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.5.16" vertex="1">
           <mxGeometry height="30" width="60" x="3605" y="-200" as="geometry" />
         </mxCell>
-        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MoCLIP：" vertex="1">
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MoCLIP：从文本编码器层面探索适配运动的文本编码器对运动性能的提升" vertex="1">
           <mxGeometry height="90" width="190" x="3540" y="-375" as="geometry" />
         </mxCell>
       </root>
