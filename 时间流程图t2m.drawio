@@ -7,7 +7,7 @@
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-1120" y="-200" as="sourcePoint" />
-            <mxPoint x="4424.761788504465" y="-200" as="targetPoint" />
+            <mxPoint x="5080" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
@@ -516,6 +516,54 @@
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MoCLIP：从文本编码器层面探索适配运动的文本编码器对运动性能的提升" vertex="1">
           <mxGeometry height="90" width="190" x="3540" y="-375" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionStreamer：提出272维运动表示，并是使用因果潜空间对运动序列进行下采样，相较于VQ-VAE方法减少信息丢失，结合自回归扩撒生成，在motion generation 上达到新sota。" vertex="1">
+          <mxGeometry height="90" width="210" x="3800" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="3904.33" y="-200" as="sourcePoint" />
+            <mxPoint x="3904.33" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.8.16" vertex="1">
+          <mxGeometry height="30" width="60" x="3875" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4361" y="-280" as="sourcePoint" />
+            <mxPoint x="4361" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.12.25" vertex="1">
+          <mxGeometry height="30" width="60" x="4331" y="-200" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MoLingo：基于MotionStreamer进行创新，探索t2m任务中文本侧的优化，在运动压缩与重建阶段新增文本语义对齐，在生成时使用多文本Token与motion Token交互，进一步提升t2m任务的表现上限" vertex="1">
+          <mxGeometry height="90" width="190" x="4266" y="-375" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SMPL创始人团队的工作" vertex="1">
+          <mxGeometry height="30" width="120" x="4296" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="浙大3DV实验室的工作" vertex="1">
+          <mxGeometry height="30" width="135" x="3837.5" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="李飞飞团队的工作" vertex="1">
+          <mxGeometry height="30" width="135" x="2558.17" y="-140" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionStreamer：提出272维运动表示，并是使用因果潜空间对运动序列进行下采样，相较于VQ-VAE方法减少信息丢失，结合自回归扩撒生成，在motion generation 上达到新sota。" vertex="1">
+          <mxGeometry height="90" width="210" x="4550" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4654.33" y="-200" as="sourcePoint" />
+            <mxPoint x="4654.33" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.12.30" vertex="1">
+          <mxGeometry height="30" width="60" x="4625" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="腾讯混元团队的工作" vertex="1">
+          <mxGeometry height="30" width="135" x="4587.5" y="-270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
