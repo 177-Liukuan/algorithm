@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="aw3iiP9Hv2NuCN5ueWgo">
-    <mxGraphModel dx="2618" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2003" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-1120" y="-200" as="sourcePoint" />
-            <mxPoint x="5080" y="-200" as="targetPoint" />
+            <mxPoint x="5380" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gP-z1K9pOAYbxG9wV2w1-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
@@ -531,18 +531,18 @@
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4361" y="-280" as="sourcePoint" />
-            <mxPoint x="4361" y="-200" as="targetPoint" />
+            <mxPoint x="4476" y="-280" as="sourcePoint" />
+            <mxPoint x="4476" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.12.25" vertex="1">
-          <mxGeometry height="30" width="60" x="4331" y="-200" as="geometry" />
+          <mxGeometry height="30" width="60" x="4446" y="-200" as="geometry" />
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MoLingo：基于MotionStreamer进行创新，探索t2m任务中文本侧的优化，在运动压缩与重建阶段新增文本语义对齐，在生成时使用多文本Token与motion Token交互，进一步提升t2m任务的表现上限" vertex="1">
-          <mxGeometry height="90" width="190" x="4266" y="-375" as="geometry" />
+          <mxGeometry height="90" width="190" x="4381" y="-375" as="geometry" />
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SMPL创始人团队的工作" vertex="1">
-          <mxGeometry height="30" width="120" x="4296" y="-150" as="geometry" />
+          <mxGeometry height="30" width="120" x="4411" y="-150" as="geometry" />
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="浙大3DV实验室的工作" vertex="1">
           <mxGeometry height="30" width="135" x="3837.5" y="-270" as="geometry" />
@@ -550,20 +550,47 @@
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="李飞飞团队的工作" vertex="1">
           <mxGeometry height="30" width="135" x="2558.17" y="-140" as="geometry" />
         </mxCell>
-        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="MotionStreamer：提出272维运动表示，并是使用因果潜空间对运动序列进行下采样，相较于VQ-VAE方法减少信息丢失，结合自回归扩撒生成，在motion generation 上达到新sota。" vertex="1">
-          <mxGeometry height="90" width="210" x="4550" y="-120" as="geometry" />
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="HY-Motion1.0：&lt;span class=&quot;mm-editor-clipboard&quot; data-json=&quot;%7B%22type%22%3A%22text%22%2C%22data%22%3A%5B%7B%22type%22%3A1%2C%22style%22%3A%7B%7D%2C%22text%22%3A%22%E9%80%9A%E8%BF%87%E5%B0%86%20DiT-based%20%E6%B5%81%E5%8C%B9%E9%85%8D%E6%A8%A1%E5%9E%8B%E7%BC%A9%E6%94%BE%E8%87%B3%E5%8D%81%E4%BA%BF%E5%8F%82%E6%95%B0%E8%A7%84%E6%A8%A1%EF%BC%8C%E7%BB%93%E5%90%88%20%E2%80%9C%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%A2%84%E8%AE%AD%E7%BB%83%20%2B%20%E9%AB%98%E8%B4%A8%E9%87%8F%E5%BE%AE%E8%B0%83%20%2B%20RL%E2%80%9D%20%E4%B8%89%E9%98%B6%E6%AE%B5%E8%AE%AD%E7%BB%83%E8%8C%83%E5%BC%8F%E4%B8%8E%E7%B2%BE%E7%BB%86%E5%8C%96%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%EF%BC%8C%E5%9C%A8%E6%96%87%E6%9C%AC%E5%88%B0%203D%20%E4%BA%BA%E4%BD%93%E8%BF%90%E5%8A%A8%E7%94%9F%E6%88%90%E4%BB%BB%E5%8A%A1%E4%B8%AD%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%8C%87%E4%BB%A4%E8%B7%9F%E9%9A%8F%E6%80%A7%E4%B8%8E%E8%BF%90%E5%8A%A8%E8%B4%A8%E9%87%8F%E7%9A%84%20SOTA%20%E8%A1%A8%E7%8E%B0%EF%BC%8C%E5%B9%B6%E5%BC%80%E6%BA%90%E4%BB%A5%E8%B5%8B%E8%83%BD%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%95%86%E4%B8%9A%E5%8C%96%E8%90%BD%E5%9C%B0%22%7D%5D%7D&quot;&gt;通过将 DiT-based 流匹配模型缩放至1B，结合 “大规模预训练 + 高质量微调 + RL” 三阶段训练与精细化数据处理，在文本到 3D 人体运动生成任务中实现了指令跟随性与运动质量的 SOTA 表现，并开源以赋能研究与商业化落地&lt;/span&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="4645" y="-120" as="geometry" />
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4654.33" y="-200" as="sourcePoint" />
-            <mxPoint x="4654.33" y="-120" as="targetPoint" />
+            <mxPoint x="4769.33" y="-200" as="sourcePoint" />
+            <mxPoint x="4769.33" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.12.30" vertex="1">
-          <mxGeometry height="30" width="60" x="4625" y="-230" as="geometry" />
+          <mxGeometry height="30" width="60" x="4740" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="nh8j7ivVPnL2ysQ5WpVi-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="腾讯混元团队的工作" vertex="1">
-          <mxGeometry height="30" width="135" x="4587.5" y="-270" as="geometry" />
+          <mxGeometry height="30" width="135" x="4702.5" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5130" y="-280" as="sourcePoint" />
+            <mxPoint x="5130" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.12.30" vertex="1">
+          <mxGeometry height="30" width="60" x="5100" y="-200" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="LMR：" vertex="1">
+          <mxGeometry height="90" width="190" x="5035" y="-375" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4205" y="-280" as="sourcePoint" />
+            <mxPoint x="4205" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="2025.10.30" vertex="1">
+          <mxGeometry height="30" width="60" x="4175" y="-200" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;shadow=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;span style=&quot;font-family: NimbusRomNo9L-Regu; font-size: 8.28995px; text-align: left;&quot;&gt;ViMoGen：&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="190" x="4110" y="-375" as="geometry" />
+        </mxCell>
+        <mxCell id="nh8j7ivVPnL2ysQ5WpVi-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="刘子纬团队工作" vertex="1">
+          <mxGeometry height="30" width="120" x="4140" y="-150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
